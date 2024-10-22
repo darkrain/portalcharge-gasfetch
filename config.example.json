@@ -1,0 +1,8 @@
+
+
+{
+    "rpc": "https://node1.portalcharge.ru",
+    "port":"9898",
+    "send_amount": "1",
+    "mnemonic": ""
+}
